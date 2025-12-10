@@ -1,64 +1,76 @@
-# 👋 Olá, eu sou o Brocchi!
+# 👋 Olá, eu sou o Brocchi
 
-Sou líder técnico com quase 20 anos de estrada em tecnologia e mais de 6 dedicados à missão de formar e guiar times de engenharia de alta performance.
+Líder técnico e gestor de engenharia com quase 20 anos de experiência construindo produtos, times e plataformas digitais.
+Atuo na interseção entre **arquitetura**, **liderança de engenharia**, **entrega de alto impacto** e **transformação organizacional**.
 
-🚀 Apaixonado por criar soluções digitais escaláveis, com propósito e impacto real.  
-🤝 Acredito em ambientes onde engenheiros brilham, e faço questão de construir isso todos os dias.  
-🧑‍🏫 Curto puxar a galera pra cima: mentoro, compartilho, inspiro.  
-💥 Mão na massa, criativo, inquieto, corajoso (e modesto, rs).  
+Meu foco é simples e direto:
 
-**Bora construir alguma coisa juntos?** 😎
+* **Criar sistemas que escalam e sobrevivem ao tempo.**
+* **Formar times que entregam com qualidade, autonomia e propósito.**
+* **Usar tecnologia (principalmente IA) para transformar o negócio.**
 
----
-
-## 🔧 Tech Stack & Skills & Coisinhas que já atuei profissionalmente
-
-- **Linguagens:** JavaScript/TypeScript (Node.js), PHP, Python, Java  
-- **Frameworks:** Express, NestJS, Laravel  
-- **Infra & DevOps:** AWS, Docker, GitHub Actions, Terraform  
-- **Outros:** PostgreSQL, Redis, Git, REST  
-- **Especialidades:**  
-  - Liderança técnica de squads
-  - Arquitetura de sistemas escaláveis  
-  - Cultura de engenharia  
-  - Cloud & DevOps  
-  - Mentoria de carreira  
+Sou movido por visão, execução e gente boa trabalhando juntas.
 
 ---
 
-## 💼 Quem sou eu na firma?
+## 🔧 Áreas de atuação
 
-Atualmente sou **Team Lead no squad de Prevenção @ meutudo**, trabalhando com um time incrível para construir sistemas robustos e seguros para proteger usuários e o negócio.
+### **Liderança & Gestão**
 
-Tenho um foco obsessivo em qualidade, performance do time e entregas com impacto.
+* Construção e desenvolvimento de times de engenharia
+* Cultura de desempenho, autonomia e responsabilidade extrema
+* Gestão de projetos, planejamento e execução orientada a impacto
+* Mentoria técnica e de carreira
+
+### **Arquitetura & Engenharia**
+
+* Arquitetura de sistemas distribuídos e escaláveis
+* Plataformas em cloud
+* Boas práticas de engenharia, observabilidade, confiabilidade
+* Integrações complexas, mensageria, performance e segurança
+
+### **DevOps & Infra**
+
+* Docker, CI/CD, automações
+* IAC
+* Gestão de ambientes, monitoramento e resiliência
+
+### **IA Aplicada ao Negócio**
+
+* RAG, microserviços inteligentes, orquestração de modelos
+* Aplicações práticas de LLMs para produtividade, qualidade e automação
+* Adoção estratégica de IA em times e processos
 
 ---
 
-## ✨ Valores que me movem
+## 💼 Minha trajetória
 
-- 🚀 Performance com propósito
-- 💙 Bem-estar do time acima do ego
-- 🧠 Aprendizado contínuo (ninguém sabe tudo)
-- 🤲 Compartilhar é multiplicar
-- 🤘 Coragem para inovar
+Atuei por muitos anos como líder técnico e gestor de engenharia em diversos setores.
+Recentemente, liderei squads focados em **prevenção a fraudes**, **plataformas de aprendizado**, **produtos de auditoria**, **engenharia de IA** e **modernização arquitetural**.
 
----
+Trago comigo três pilares:
 
-## 🛠️ Em construção...
-
-Este espaço ainda vai crescer! Pretendo colocar por aqui:
-
-- Meus projetos favoritos
-- Artigos e talks (se tiver interesse, claro)
-- Iniciativas de mentoria que participo
+1. **Qualidade acima de velocidade**
+2. **Time forte acima de heróis individuais**
+3. **Processos simples, eficientes e reais**
 
 ---
 
-## 📬 Vamos trocar ideia?
+## 🌱 O que acredito
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/matheusbrocchi/)  
-- 📧 brocchi@gmail.com
-- 🐙 GitHub: [@brocchi](https://github.com/brocchi)
+* **Ambientes saudáveis geram times extraordinários**
+* **Tecnologia só faz sentido quando resolve dor real**
+* **Liderança é construir caminhos, não controlar passos**
+* **IA é multiplicador de impacto — se usada com estratégia**
+* **Clareza > urgência** sempre
+
+---
+
+## 📬 Vamos conversar?
+
+* **LinkedIn:** [https://www.linkedin.com/in/matheusbrocchi/](https://www.linkedin.com/in/matheusbrocchi/)
+* **E-mail:** [brocchi@gmail.com](mailto:brocchi@gmail.com)
+* **GitHub:** [https://github.com/brocchi](https://github.com/brocchi)
 
 ---
 
